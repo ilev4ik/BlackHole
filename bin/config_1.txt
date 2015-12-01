@@ -1,0 +1,13 @@
+Background texture path: C:\\Users\\user\\Desktop\\RayTracer\\RayTracer\\bin\\data\\data\\stars.jpg
+Disk texture path: C:\\Users\\user\\Desktop\\RayTracer\\RayTracer\\bin\\data\\data\\disk_32.png
+Resolution: 512 512
+Hole mass: 8.57e+36 
+Ratio: 4
+View angle: 60
+Camera position: 10.0e+10 10.0e+10 3.0e+10
+Alpha blending: T
+OpenMP: T
+Anti-aliasing: F
+
+
+
